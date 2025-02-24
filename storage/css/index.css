@@ -13,7 +13,13 @@ body {
 
     height: 100%;
 }
-  
+
+#plogo {
+    float: center top;
+    z-index: 10;
+    height:10;
+}
+
 body::-webkit-scrollbar {
     width: 0;
 }
