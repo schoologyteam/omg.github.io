@@ -310,6 +310,10 @@ a {
     animation-delay: 0.25s;
 }
 
+#openBlankLink {
+    cursor: pointer;
+}
+
 p {
     padding-left: 20%;
     padding-right: 20%;
