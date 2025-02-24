@@ -48,14 +48,14 @@
 
 
 :root {
-    --background-image: url('/images/backgrounds/seraph/homebg.jpg');
+    --background-image: url('/images/backgrounds/molten/homebg.jpg');
     --font-family: 'Ubuntu', sans-serif;
-    --text-color: #fff;
-    --background-color: black;
-    --border-color1: #000000;
-    --border-color2: #ffffff;
-    --hover-color: #1a1818;
-    --text-glow: #000000
+    --text-color: #f58484; 
+    --border-color1: #e70e0e;
+    --border-color2: #742e2e;
+    --background-color: #892525;
+    --hover-color: #9b2121;
+    --text-glow: #dc1010;
 }
 
 :root.theme-azurite {
@@ -92,14 +92,14 @@
 }
 
 :root.theme-molten {
-    --background-image: url('/images/backgrounds/molten/homebg.jpg');
+    --background-image: url('/images/backgrounds/seraph/homebg.jpg');
     --font-family: 'Ubuntu', sans-serif;
-    --text-color: #f58484; 
-    --border-color1: #e70e0e;
-    --border-color2: #742e2e;
-    --background-color: #892525;
-    --hover-color: #9b2121;
-    --text-glow: #dc1010;
+    --text-color: #fff;
+    --background-color: black;
+    --border-color1: #000000;
+    --border-color2: #ffffff;
+    --hover-color: #1a1818;
+    --text-glow: #000000
 }
 
 :root.theme-amethyst {
