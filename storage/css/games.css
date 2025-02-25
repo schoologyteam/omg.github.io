@@ -1,7 +1,7 @@
 @import url('/storage/css/themes.css');
 
 :root {
-    --background-image: url('/images/backgrounds/seraph/gamebg.jpg');
+    --background-image: url('/images/backgrounds/molten/gamebg.jpg');
     --border-color1: #a19b9b;
 }
 :root.theme-azurite {
@@ -14,7 +14,7 @@
     --background-image: url('/images/backgrounds/cosmic/gamesbg.jpg');
 }
 :root.theme-molten {
-    --background-image: url('/images/backgrounds/molten/gamesbg.jpg');
+    --background-image: url('/images/backgrounds/seraph/gamesbg.jpg');
 }
 :root.theme-amethyst {
     --background-image: url('/images/backgrounds/amethyst/gamesbg.jpg');
